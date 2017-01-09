@@ -1,0 +1,55 @@
+*{  margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 100%;
+	
+}
+.logo{
+
+}
+.conteudo{
+	width:100%;
+	max-width: 1020px;
+	margin: 0 auto;
+	padding: 0px 20px;
+	box-sizing: border-box;
+	
+}
+
+.topo {
+	width: 100%;
+	background-color: #FFFFFF;
+	box-sizing: border-box;
+	float: left; 
+	
+	
+}
+/*-----------------------box topo-------------------------------*/
+.box-topo{
+	width:100%;
+	
+	float: left;
+	box-sizing: border-box;
+	
+}
+
+.info-header{
+
+	display:none;
+    
+}
+
+.info-header ul li{
+	display:none;
+}
+
+
+.logo{
+	float:left;
+	width: 130px;
+	margin: 10% 0px 5% 5%;
+}
+
+

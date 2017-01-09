@@ -1,0 +1,8 @@
+
+	/*--------------------------------------------------------------------------------------------*/
+	.rodape{width:100%; float:left; background-image: linear-gradient(to bottom, BlueViolet, black);}
+	.onde{    width: 41%;   float: left;   height: 20%;}
+	.onde h2{ width: 115%; font-family: verdana;  color: #fff; font-size: 15px;  text-transform: uppercase; margin: 3% 0 2% 20%;}
+	.av{  width: 100%; font-family: verdana; font-size: 11px;   font-weight: bold;   margin-left: 20%;    margin-top:3%; color: #fff;}
+	.redes{  float: right; margin: 3% 2% 0 2%;}
+	.redes-sociais{ float:left; width: 25%; }

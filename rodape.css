@@ -1,0 +1,32 @@
+
+.quem-somos{
+	width: 100%;
+	float:left; /*---------*/
+	margin-top: 15px;
+}
+
+.palavras-cont{
+	
+	float: left;
+	text-align: center;
+	width: 300px;
+	margin-top: 10px;
+}
+	.info{
+		width: 32%;
+		height: 300px;
+		float: left;
+	}
+	
+	.info-meio{
+		margin: 0 2%;
+	}
+	/*--------------------------------------------------------------------------------------------*/
+	.rodape{width:100%; float:left; background-image: linear-gradient(to bottom, BlueViolet, black);}
+	.onde{    width: 50%;   float: left;   height: 20%;}
+	.onde h2{  font-family: verdana;  color: #fff; font-size: 15px;  text-transform: uppercase; margin: 20px 0px 10px 65px;}
+	.av{   font-family: verdana; font-size: 11px;   font-weight: bold;   margin-left: 65px;    margin-top: 10px; color: #fff;}
+	.redes{  width: 22%; float: left; margin-bottom: 2%; margin-top: 35px; margin-left: 28%;}
+	.redes-sociais{ float:left }
+
+
